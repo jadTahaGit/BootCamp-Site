@@ -10,6 +10,13 @@ body::before {
   border-radius: 10px;
 }
 
+.icon-green {
+  color: white;
+  align-self: center;
+  right: 110px;
+  z-index: 999;
+}
+
 @media (min-width: 768px) {
   .news-input {
     width: 50%;
